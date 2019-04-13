@@ -22,8 +22,16 @@
                                 <rect key="frame" x="0.0" y="818" width="414" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                 <items>
-                                    <barButtonItem title="Item" id="4TF-4F-5NH" userLabel="Record Bar"/>
-                                    <barButtonItem title="Item" id="8JX-xe-uOs" userLabel="Play Bar"/>
+                                    <barButtonItem title="Item" id="4TF-4F-5NH" userLabel="Record Bar">
+                                        <connections>
+                                            <action selector="recordBar:" destination="BYZ-38-t0r" id="yCg-t2-Vze"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="Item" id="8JX-xe-uOs" userLabel="Play Bar">
+                                        <connections>
+                                            <action selector="playBar:" destination="BYZ-38-t0r" id="z0z-Y7-jDF"/>
+                                        </connections>
+                                    </barButtonItem>
                                 </items>
                             </toolbar>
                         </subviews>
