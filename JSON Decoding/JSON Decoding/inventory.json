@@ -1,0 +1,145 @@
+{
+    "status": "ok",
+    "products": [
+		{
+			"id": 1252,
+			"category": "Computers",
+			"title": "Logitech M510 Wireless Computer Mouse",
+			"price": 18.49,
+			"stockedQuantity": 25
+		},
+		{
+			"id": 1343,
+			"category": "Computers",
+			"title": "Redragon K552 KUMARA LED Backlit Mechanical Gaming Keyboard",
+			"price": 29.99,
+			"stockedQuantity": 9
+		},
+		{
+			"id": 1542,
+			"category": "Computers",
+			"title": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3000MHz",
+			"price": 139.99,
+			"stockedQuantity": 42
+		},
+		{
+			"id": 1721,
+			"category": "Computers",
+			"title": "USB 3.0 A to A Cable Type A Male to Male, 3 feet",
+			"price": 7.29,
+			"stockedQuantity": 112
+		},
+		{
+			"id": 2231,
+			"category": "Computers",
+			"title": "USB C to USB A",
+			"price": 10.99,
+			"stockedQuantity": 84
+		},
+		{
+			"id": 2405,
+			"category": "Computers",
+			"title": "EVGA GeForce GTX 1050 Ti Gaming Video Card, 4GB GDDR5",
+			"price": 169.99,
+			"stockedQuantity": 25
+		},
+		{
+			"id": 2502,
+			"category": "Computers",
+			"title": "ASUS ROG Strix Z370-E Motherboard LGA1151",
+			"price": 209.99,
+			"stockedQuantity": 8
+		},
+		{
+			"id": 3152,
+			"category": "Electronics",
+			"title": "Tascam DR05 Stereo Portable Digital Recorder",
+			"price": 92.99,
+			"stockedQuantity": 14
+		},
+		{
+			"id": 3178,
+			"category": "Electronics",
+			"title": "Toshiba 43LF621U19 43-inch 4K Ultra HD Smart LED TV HDR",
+			"price": 319.99,
+			"stockedQuantity": 23
+		},
+		{
+			"id": 3556,
+			"category": "Electronics",
+			"title": "Crown XLS1502 Two-channel, 525W at 4Ω Power Amplifier",
+			"price": 399.00,
+			"stockedQuantity": 17
+		},
+		{
+			"id": 4339,
+			"category": "Kitchen",
+			"title": "KitchenAid KSM150PSER Artisan Tilt-Head Stand Mixer",
+			"price": 278.63,
+			"stockedQuantity": 36
+		},
+		{
+			"id": 4411,
+			"category": "Kitchen",
+			"title": "Hamilton Beach 62682RZ Hand Mixer",
+			"price": 14.99,
+			"stockedQuantity": 67
+		},
+		{
+			"id": 4523,
+			"category": "Kitchen",
+			"title": "Tovolo Flex-Core All Silicone Spatula",
+			"price": 10.49,
+			"stockedQuantity": 98
+		},
+		{
+			"id": 5134,
+			"category": "Kitchen",
+			"title": "Circulon Symmetry Hard Anodized Nonstick Skillet",
+			"price": 49.95,
+			"stockedQuantity": 62
+		},
+		{
+			"id": 5216,
+			"category": "Pets",
+			"title": "Neater Feeder Express Pet Bowls",
+			"price": 22.99,
+			"stockedQuantity": 6
+		},
+		{
+			"id": 5678,
+			"category": "Pets",
+			"title": "Magic Roller Ball Dog Toy",
+			"price": 10.80,
+			"stockedQuantity": 9
+		},
+		{
+			"id": 6123,
+			"category": "Pets",
+			"title": "Pillow Pets Signature Cozy Cow Plush Toy",
+			"price": 19.99,
+			"stockedQuantity": 17
+		},
+		{
+			"id": 6732,
+			"category": "Pets",
+			"title": "Evriholder FURemover Broom with Squeegee",
+			"price": 15.99,
+			"stockedQuantity": 21
+		},
+		{
+			"id": 7128,
+			"category": "Pets",
+			"title": "Fabreze Pet Oder Eliminator",
+			"price": 4.94,
+			"stockedQuantity": 33
+		},
+		{
+			"id": 7231,
+			"category": "Pets",
+			"title": "Professional Pet Slicker Rug Brush for Dogs",
+			"price": 7.59,
+			"stockedQuantity": 17
+		}
+	]
+}
